@@ -1,0 +1,7 @@
+# Seeed Studio XIAO ESP32S3 Sense (Camera and Wi-Fi Streaming)
+
+Status: Candidate — not finalized.
+
+Assigned member: TBD
+
+Add datasheets and manuals to `documents/`, connection diagrams to `wiring/`, code to `firmware/`, and test procedures and results to `tests/`. Document power requirements, interfaces, proposed pins, and compatibility concerns.
