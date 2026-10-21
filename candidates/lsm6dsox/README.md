@@ -13,6 +13,9 @@ track the Turning, Braking, Vibration and Tilt.
 
 Datasheet Pinout and Schematics
 
+<b> Datasheet </b>
+https://cdn-learn.adafruit.com/downloads/pdf/lsm6dsox-and-ism330dhc-6-dof-imu.pdf
+
 Supply Voltage, Signal Voltage, and Communication Protocol (I2C)
 
 Proposed Setup and Addition Hardware
