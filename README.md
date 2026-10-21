@@ -14,3 +14,5 @@ Post your components schematic/info/datasheets/manuals, in your directory
 > Cite relevant document sections or pages and mark uncertain information as unconfirmed. Coordinate proposed pins and power connections with the relevant teams.
 >
 > **No hardware testing is expected yet. Be ready to explain your plan at the next weekly meeting.**
+
+<img width="4400" height="3000" alt="image" src="https://github.com/user-attachments/assets/7a155e79-0a40-44c8-88d8-3031e70a168f" />
