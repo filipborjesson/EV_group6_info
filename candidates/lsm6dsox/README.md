@@ -54,9 +54,11 @@ ESP 32 using the I2C interface mainly to simplify wiring and
 also because the latency for this application shouldn't be noticable
 (in the range of 100's of kHz).
 
+```Basic Diagram
 |---------| ----- SCL --- |----------|  
-| ESP 32  |````text               ````| LSM6DSOX |  
+| ESP 32  |               | LSM6DSOX |  
 |---------| ----- SDA --- |----------|  
+```
 
 From here we can use the wifi to communicate the devices data to the 
 lab computers.
