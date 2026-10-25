@@ -13,8 +13,14 @@ track the Turning, Braking, Vibration and Tilt.
 
 ## <b> Datasheet Pinout and Schematics </b>
 
-Datasheet Link:  
+Primary Use Guide (Contains Pinout, and Basic Use Cases, and Datasheet):  
 https://cdn-learn.adafruit.com/downloads/pdf/lsm6dsox-and-ism330dhc-6-dof-imu.pdf
+
+Official Datasheet (More in-depth on the function of the pins, and Useful info)
+https://adafru.it/HFw
+
+Board Git (Contains the PCB board files)
+https://github.com/adafruit/Adafruit-LSM6DSOX-PCB
 
 ## <b>Supply Voltage, Signal Voltage, and Communication Protocol (I2C)</b>
 
