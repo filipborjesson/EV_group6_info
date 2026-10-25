@@ -47,6 +47,16 @@ The LSM6DSOX supports I3C and SPI for communication protocols.
 In particular if the other components support I3C we could wire them all 
 in parallel which could simplify the wiring.
 
-## <b>Proposed Setup and Additional Hardware </b>
+## <b>Proposed Setup and Additional Hardware </b>  
 
-- Currently, I would propobe 
+Currently, I would propose we connect the board to the 
+ESP 32 using the I2C interface mainly to simplify wiring and 
+also because the latency for this application shouldn't be noticable
+(in the range of 100's of kHz).
+
+|---------| ----- SCL --- |----------|
+| ESP 32  |               | LSM6DSOX |
+|---------| ----- SDA --- |----------|
+
+From here we can use the wifi to communicate the devices data to the 
+lab computers.
