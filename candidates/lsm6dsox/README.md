@@ -34,16 +34,19 @@ Min:
 Signal Voltage:  
 
 Input:  
-  High: <b> 70% the IO Voltage </b>
+  High: <b> 70% the IO Voltage </b>  
   Low: <b> 30% the IO Voltage </b>
   
 Output:  
-  High: <b>IO Voltage - 0.2V</b>
+  High: <b>IO Voltage - 0.2V </b>  
   Low: <b>20% the IO Voltage</b>
 
 IO/Communication Protocol  
 
-The LSM6DSOX supports both I2C and SPI for communication protocols.
+The LSM6DSOX supports I3C and SPI for communication protocols.
+In particular if the other components support I3C we could wire them all 
+in parallel which could simplify the wiring.
+
 ## <b>Proposed Setup and Additional Hardware </b>
 
 - Currently, I would propobe 
