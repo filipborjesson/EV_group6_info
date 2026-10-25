@@ -24,4 +24,26 @@ https://github.com/adafruit/Adafruit-LSM6DSOX-PCB
 
 ## <b>Supply Voltage, Signal Voltage, and Communication Protocol (I2C)</b>
 
-## <b>Proposed Setup and Addition Hardware </b>
+Supply Voltage:  
+
+Max: <b>3.6V</b> (Both IO, and Supply)
+Min:  
+  IO: <b> 1.62 </b>
+  Core: <b> 1.71 </b>  
+
+Signal Voltage:  
+
+Input:  
+  High: <b> 70% the IO Voltage </b>
+  Low: <b> 30% the IO Voltage </b>
+  
+Output:  
+  High: <b>IO Voltage - 0.2V</b>
+  Low: <b>20% the IO Voltage</b>
+
+IO/Communication Protocol  
+
+The LSM6DSOX supports both I2C and SPI for communication protocols.
+## <b>Proposed Setup and Additional Hardware </b>
+
+- Currently, I would propobe 
