@@ -55,7 +55,7 @@ also because the latency for this application shouldn't be noticable
 (in the range of 100's of kHz).
 
 |---------| ----- SCL --- |----------|  
-| ESP 32  |               | LSM6DSOX |  
+| ESP 32  |````text               ````| LSM6DSOX |  
 |---------| ----- SDA --- |----------|  
 
 From here we can use the wifi to communicate the devices data to the 
