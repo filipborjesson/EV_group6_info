@@ -2,6 +2,6 @@
 
 Status: Candidate — not finalized.
 
-Assigned member: TBD
+Assigned member: Teddy Cone
 
-Add datasheets and manuals to `documents/`, connection diagrams to `wiring/`, code to `firmware/`, and test procedures and results to `tests/`. Document power requirements, interfaces, proposed pins, and compatibility concerns.
+Datasheets and manuals in `documents/`, connection diagrams in `wiring/`, code in `firmware/`, and test procedures and results in `tests/`. Document power requirements, interfaces, proposed pins, and compatibility concerns.
